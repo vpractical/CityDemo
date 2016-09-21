@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50px"
+    android:background="#DCDCDC"
+    android:textSize="25px"
+    android:textColor="#124512"
+    android:id="@+id/stick_tv"
+    android:gravity="center_vertical"
+    android:paddingLeft="15px"
+    >
+</TextView>

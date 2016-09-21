@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\android\GitHub\CityDemo\testcity\build\intermediates\exploded-aar\com.zhy\autolayout\1.4.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="911eeaf6f474e74b7dbd9fa7f19aa56715a344ae">
+        <dex dex="F:\android\GitHub\CityDemo\testcity\build\intermediates\transforms\dex\debug\folders\1000\10\com.zhy-autolayout-1.4.3_b1875d611acd3260256f7df945774abbae58e704\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\GitHub\CityDemo\testcity\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="F:\android\GitHub\CityDemo\testcity\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_d9804e6417e7313057e182c0cf40674ce2a5d5be\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\GitHub\CityDemo\testcity\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="F:\android\GitHub\CityDemo\testcity\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_53be5932f68f1831362ed77acbdf1bb990724e6a\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\GitHub\CityDemo\testcity\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="F:\android\GitHub\CityDemo\testcity\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_4e109460b96b1b319222cac22d040d219f267c2d\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\GitHub\CityDemo\testcity\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="F:\android\GitHub\CityDemo\testcity\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_44dc833d82a9a53b0138e3c1b2e59902642e2be4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Johnny\.gradle\caches\modules-2\files-2.1\com.github.promeg\tinypinyin\1.0.0\a48301534bbc8eea481f61fa8fbdee80eca49d15\tinypinyin-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a48301534bbc8eea481f61fa8fbdee80eca49d15">
+        <dex dex="F:\android\GitHub\CityDemo\testcity\build\intermediates\transforms\dex\debug\folders\1000\10\tinypinyin-1.0.0_282c2b35542906b78947d95c09db95f683267454\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\GitHub\CityDemo\testcity\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="F:\android\GitHub\CityDemo\testcity\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_0208f2dad3bcd9f39236bb4b96d0a59c0cebefcd\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\GitHub\CityDemo\testcity\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="F:\android\GitHub\CityDemo\testcity\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_336082602b68ed44cebb48d1319d7d1db70247e7\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\GitHub\CityDemo\testcity\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="02e571c3d2ed594734b08c03134211473bee7f84">
+        <dex dex="F:\android\GitHub\CityDemo\testcity\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c6634072ad719d3ae1c20a2c0d44d3f835d50f80\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\as\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="F:\android\GitHub\CityDemo\testcity\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_61951ea94f2b850ccc49cf681dbb38183e953796\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\GitHub\CityDemo\testcity\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="F:\android\GitHub\CityDemo\testcity\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_83d6ad397e7a2f4f44cbd5383857f6fb8e915dd4\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\GitHub\CityDemo\testcity\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="da51e9f65022c81230016d09d342b1c656cb51bb">
+        <dex dex="F:\android\GitHub\CityDemo\testcity\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_91f2d1ec40578268c6d36ca629b29adafa9b6b21\classes.dex" />
+    </item>
+
+</items>

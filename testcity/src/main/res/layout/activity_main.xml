@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="90px"
+        android:text="选择国家或地区"
+        android:textSize="36px"
+        android:gravity="center"
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="142px"
+        android:background="#f5f0eb"
+        >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="60px"
+            android:background="#fff"
+            android:layout_margin="20px"
+            android:editable="false"
+            android:gravity="center"
+            android:hint="搜索"
+            android:textSize="11sp"
+            />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="热门"
+        android:textSize="32px"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="36px"
+        android:layout_marginBottom="10px"
+        />
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+        </android.support.v7.widget.RecyclerView>
+
+    <include layout="@layout/stick_view"
+        />
+
+        <ywb.testcity.CitySlideView
+            android:id="@+id/view_city_slide"
+            android:layout_width="50px"
+            android:layout_height="800px"
+            android:layout_gravity="center_vertical|right"
+            />
+
+        <TextView
+            android:id="@+id/tv_selected_show"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff0000"
+            android:textSize="75px"
+            android:visibility="gone"
+            android:layout_gravity="center"
+            />
+
+    </FrameLayout>
+
+
+
+</LinearLayout>
